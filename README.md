@@ -21,6 +21,8 @@
 
 </div>
 
+- 一家高质量的LLM聚合中转站https://vsllm.com/
+
 ## ✨ 功能特性
 
 - 🤖 **自动运行** - 基于GitHub Actions，无需服务器
